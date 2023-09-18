@@ -20,7 +20,7 @@
 
 <div align="center">
   <p align="center"><a href="https://t.me/Vladik_Deniska">t.me/Vladik_Deniska</a></p>
-  <p align="center"><a href="https://www.linkedin.com/in/vladislav-denisov-a731a9292/">linkedin.com/in/vladislav-denisov-a731a9292</a></p>
+  <p align="center"><a href="https://www.linkedin.com/in/vladislav-denisov-a731a9292/">LinkedIn</a></p>
   <p align="center"><a href="mailto:vlados.pochta@gmail.com">vlados.pochta@gmail.com</a></p>
 </div>
 
