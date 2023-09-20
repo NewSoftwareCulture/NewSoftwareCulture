@@ -11,7 +11,7 @@
     <p><code>MongoDB</code> <code>Clickhouse</code> <code>PostgreSQL</code> <code>Redis</code> <code>ELK</code></p>
     <p><code>RabbitMQ</code> <code>Kafka</code></p>
     <p><code>Kibana</code> <code>Grafana</code> <code>Prometheus</code> <code>Alertmanager</code></p>
-    <p><code>Docker</code> <code>Docker-Compose</code> <code>Bash</code> <code>React</code></p>
+    <p><code>Docker</code> <code>Docker-Compose</code> <code>Jest</code> <code>Bash</code> <code>React</code></p>
   </div>
 </div>
 
