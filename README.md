@@ -19,9 +19,10 @@
 <br />
 
 <div align="center">
-  <p align="center"><a href="https://t.me/Vladik_Deniska">t.me/Vladik_Deniska</a></p>
+  <p align="center"><a href="https://t.me/Vladik_Deniska">Telegram</a></p>
   <p align="center"><a href="https://www.linkedin.com/in/vladislav-denisov-a731a9292/">LinkedIn</a></p>
-  <p align="center"><a href="mailto:vlados.pochta@gmail.com">vlados.pochta@gmail.com</a></p>
+  <p align="center"><a href="https://career.habr.com/vsdenisov">Habr</a></p>
+  <p align="center"><a href="mailto:vlados.pochta@gmail.com">Email</a></p>
 </div>
 
 <br />
