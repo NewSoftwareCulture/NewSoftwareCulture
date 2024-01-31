@@ -8,10 +8,11 @@
   <div width="1em">
     <h3 align="center">My stack</h3>
     <p><code>NodeJS</code> <code>TypeScript</code> <code>ExpressJS</code> <code>NestJS</code></p>
-    <p><code>MongoDB</code> <code>Clickhouse</code> <code>PostgreSQL</code> <code>Redis</code> <code>ELK</code></p>
+    <p><code>MongoDB</code> <code>Clickhouse</code> <code>PostgreSQL</code> <code>Redis</code> <code>ElasticSearch</code></p>
     <p><code>RabbitMQ</code> <code>Kafka</code></p>
-    <p><code>Kibana</code> <code>Grafana</code> <code>Prometheus</code> <code>Alertmanager</code></p>
-    <p><code>Docker</code> <code>Docker-Compose</code> <code>Jest</code> <code>Bash</code> <code>React</code></p>
+    <p><code>Kibana</code> <code>Grafana</code> <code>Graylog</code> <code>Prometheus</code> <code>Alertmanager</code></p>
+    <p><code>Docker</code> <code>Docker-Compose</code> <code>Docker-Stack</code> <code>Docker-Swarm</code> 
+    <p><code>Jest</code> <code>Bash</code> <code>React</code></p>
   </div>
 </div>
 
