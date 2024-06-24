@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi! My name is <code>Vladislav Denisov</code></h1>
 
-<h3 align="center"><code>Backend Developer</code> with 3+ years of experience.</h3>
+<h3 align="center"><code>Backend Developer</code> with 4+ years of experience.</h3>
 
 <br />
 
@@ -8,11 +8,11 @@
   <div width="1em">
     <h3 align="center">My stack</h3>
     <p><code>NodeJS</code> <code>TypeScript</code> <code>ExpressJS</code> <code>NestJS</code></p>
-    <p><code>MongoDB</code> <code>Clickhouse</code> <code>PostgreSQL</code> <code>Redis</code> <code>ElasticSearch</code></p>
+    <p><code>MongoDB</code> <code>Clickhouse</code> <code>PostgreSQL</code> <code>MSSQL</code>  <code>Redis</code> <code>ElasticSearch</code></p>
     <p><code>RabbitMQ</code> <code>Kafka</code></p>
     <p><code>Kibana</code> <code>Grafana</code> <code>Graylog</code> <code>Prometheus</code> <code>Alertmanager</code></p>
     <p><code>Docker</code> <code>Docker-Compose</code> <code>Docker-Stack</code> <code>Docker-Swarm</code> 
-    <p><code>Jest</code> <code>Bash</code> <code>React</code></p>
+    <p><code>Jest</code> <code>Mocha</code> <code>Swagger</code> <code>Bash</code> <code>React</code></p>
   </div>
 </div>
 
