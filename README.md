@@ -17,6 +17,14 @@
 </div>
 
 <br />
+
+<div align="center">
+  <h3 align="center">Projects</h3>
+  <p align="center"><a href="https://github.com/NewSoftwareCulture/NestJS-Monorepo">Backend Kit</a></p>
+  <p align="center"><a href="https://newsoftwareculture.github.io/UI-components">Storybook</a></p>
+</div>
+
+<br />
 <br />
 
 <div align="center">
@@ -25,15 +33,6 @@
   <p align="center"><a href="https://www.linkedin.com/in/vladislav-denisov-a731a9292/">LinkedIn</a></p>
   <p align="center"><a href="https://career.habr.com/vsdenisov">Habr</a></p>
   <p align="center"><a href="mailto:vlados.pochta@gmail.com">Email</a></p>
-</div>
-
-<br />
-<br />
-
-<div align="center">
-  <h3 align="center">Projects</h3>
-  <p align="center"><a href="https://github.com/NewSoftwareCulture/NestJS-Monorepo">Backend Kit</a></p>
-  <p align="center"><a href="https://newsoftwareculture.github.io/UI-components">Storybook</a></p>
 </div>
 
 <br />
